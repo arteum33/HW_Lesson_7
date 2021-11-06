@@ -1,0 +1,1 @@
+{"Brand": "Volvo", "Model": "CX90", "Fuel consumption, l": 12, "Price": 1500000}
